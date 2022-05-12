@@ -1,0 +1,26 @@
+.banner {
+	min-height: 90vh;
+	margin: 0 auto;
+	background-color: red;
+}
+.banner > div {
+	width: 35%;
+	text-align: left;
+	padding: 2rem;
+}
+.banner > div h1 {
+	font-size: 4rem;
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-weight: bolder;
+	padding-top: 4rem;
+	font-style: italic;
+}
+.banner > div p {
+	font-size: 3rem;
+	/* text-decoration: underline; */
+	text-transform: capitalize;
+	font-weight: bolder;
+	/* padding-top: 1rem; */
+	font-style: italic;
+}

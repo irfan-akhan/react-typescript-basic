@@ -1,0 +1,39 @@
+{
+	"products": [
+		{
+			"name": "Nike Air xoxo",
+			"imageUrl": "string",
+			"tag": "Nile air is priceless",
+			"availability": "In Stock",
+			"price": 999
+		},
+		{
+			"name": "Air Jordon 5",
+			"imageUrl": "string",
+			"tag": "AIr jordan is one of a kind",
+			"availability": "out of Stock",
+			"price": 1999
+		},
+		{
+			"name": "Addidas X5 me",
+			"imageUrl": "string",
+			"tag": "X5 is weightless",
+			"availability": "In Stock",
+			"price": 450
+		},
+		{
+			"name": "Reebok blood red",
+			"imageUrl": "string",
+			"tag": "Rebook blood edition",
+			"availability": "In Stock",
+			"price": 850
+		},
+		{
+			"name": "Balenciaga Sloth",
+			"imageUrl": "string",
+			"tag": "Balanciaga Sloth is one piece",
+			"availability": "In Stock",
+			"price": 500
+		}
+	]
+}
